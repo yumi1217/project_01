@@ -1,0 +1,5 @@
+#忽略index.css文件夹
+index.css
+
+#忽略ceshi目录下所有的文件
+ceshi/
